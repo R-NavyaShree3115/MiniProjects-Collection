@@ -2,6 +2,7 @@
 Its a college mini projects collection repo..
 
 #📚 College Mini Projects Collection
+
 A curated collection of my mini-projects created during my Information Science & Engineering coursework at Bangalore Institute of Technology, including work in web development, UI/UX design, data structures, and more.
 
 #🧠 Learnings
@@ -27,9 +28,13 @@ A curated collection of my mini-projects created during my Information Science &
 *  React (for select projects)
 
   #🙋‍♂️ Author
+  
 R Navyashree
+
 Student, Information Science & Engineering
+
 *[LinkedIn](https://www.linkedin.com/in/r-navya-shree-0a921633a) 
+
 *[Email](rnavyashree003@gmail.com)
 
 
