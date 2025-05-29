@@ -64,28 +64,35 @@ Total Time: 95 mins
 === Emergency Response Summary ===
 1. A1 (Location 1) - Arrival: 10 min, Deadline: 25 - On-Time
 2. C3 (Location 3) - Arrival: 30 min, Deadline: 20 - Late
-3. B2 (Location 2) - Arrival: 60 min, Deadline: 30 - Late
-Total Sites:3
-On-Time: 1, Late: 2
-Urgency Total: 16, Resource Needs Total: 10
-Final Performance Score: 101
+3. B2 (Location 2) - Arrival: 60 min, Deadline: 30 - Late<br>
+Total Sites:3<br>
+On-Time: 1, Late: 2<br>
+Urgency Total: 16, Resource Needs Total: 10<br>
+Final Performance Score: 101<br>
 ==================================
 ---
-🧰 **Tools Used**<br>
-*Language: C
+🧰 **Tools Used**
+<br>
+* Language: C
 
-*Platform: GCC/MinGW (or any standard C compiler)
+* Platform: GCC/MinGW (or any standard C compiler)
 
-*IDE: VS Code or Code::Blocks
+* IDE: VS Code or Code::Blocks
 
-*Dependencies: None (Standard C Library only)<br>
+* Dependencies: None (Standard C Library only)
+<br>
+
 ---
-**📌 Future Enhancements**<br>
-*GUI Interface for easier input.
 
-*Dynamic loading of locations from file.
+**📌 Future Enhancements**
 
-*Integration with maps and real-time traffic APIs.
+<br>
+
+ *  GUI Interface for easier input.
+
+ * Dynamic loading of locations from file.
+
+ * Integration with maps and real-time traffic APIs.
 
 
 
